@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/acme/commit/2e09e3ddecf4a1ba783688c92aa493c596a2beec",
       "git:hexsha": "2e09e3ddecf4a1ba783688c92aa493c596a2beec",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T16:09:35.878461+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/acme/commit/d30c509a00985e58207fda7b5c188b3a16327220",
